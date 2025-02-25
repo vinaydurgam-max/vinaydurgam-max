@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me  
 - Email: durgamvinay43@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vinay-durgam-6b84b6329?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxjmjaotcqwu3splxih26ng%3d%3d
+- LinkedIn:https://www.linkedin.com/in/vinay-kumar-durgam-6b84b6329/
 - GitHub: [github.com/vinaydurgam-max](https://github.com/vinaydurgam-max)  
 
 ## 😄 Pronouns  
