@@ -18,7 +18,8 @@
 ## 📫 How to reach me  
 - Email: durgamvinay43@gmail.com
 - LinkedIn:https://www.linkedin.com/in/vinay-kumar-durgam-6b84b6329/
-- GitHub: [github.com/vinaydurgam-max](https://github.com/vinaydurgam-max)  
+- GitHub: [github.com/vinaydurgam-max](https://github.com/vinaydurgam-max)
+- portfolio : https://vinaykumardurgam.netlify.app/  
 
 ## 😄 Pronouns  
 He/Him  
